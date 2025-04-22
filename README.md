@@ -131,8 +131,14 @@ bhaswanth67-finbot-agentic-rag-chatbot/
 └── .streamlit/
     └── config.toml        # Streamlit theme config
 ```
+### Architecture Diagram
+![Architecture](src/architecture.png)
+
+### Flowchart
+![Flowchart](src/flowchart.png)
 
 ---
+
 
 ## How It Works
 
@@ -177,6 +183,16 @@ bhaswanth67-finbot-agentic-rag-chatbot/
   - Report Agent: Generates PDF.
 
 - **Output:** PDF reports stored in `pages/proposals/`.
+
+---
+
+### Screenshots
+![homepage](src/homepage.png)
+![llmtest](src/llmtest.png)
+![pdftest](src/pdftest.png)
+![apitest](src/apitest.png)
+![research](src/researchh.png)
+![research](src/reserchtwo.png)
 
 ---
 
